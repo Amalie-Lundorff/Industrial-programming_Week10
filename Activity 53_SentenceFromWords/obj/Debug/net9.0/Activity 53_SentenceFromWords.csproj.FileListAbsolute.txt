@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/bin/Debug/net9.0/Activity 53_SentenceFromWords
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/bin/Debug/net9.0/Activity 53_SentenceFromWords.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/bin/Debug/net9.0/Activity 53_SentenceFromWords.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/bin/Debug/net9.0/Activity 53_SentenceFromWords.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/bin/Debug/net9.0/Activity 53_SentenceFromWords.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/refint/Activity 53_SentenceFromWords.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/Activity 53_SentenceFromWords.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 53_SentenceFromWords/obj/Debug/net9.0/ref/Activity 53_SentenceFromWords.dll

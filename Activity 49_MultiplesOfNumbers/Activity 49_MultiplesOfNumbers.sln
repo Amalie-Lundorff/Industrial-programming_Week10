@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity 49_MultiplesOfNumbers", "Activity 49_MultiplesOfNumbers.csproj", "{FAA9EA9F-6B53-4302-B535-B58CF285535A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA9EA9F-6B53-4302-B535-B58CF285535A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA9EA9F-6B53-4302-B535-B58CF285535A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA9EA9F-6B53-4302-B535-B58CF285535A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA9EA9F-6B53-4302-B535-B58CF285535A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

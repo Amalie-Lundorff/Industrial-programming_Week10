@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Activity 51_DigitSumModulo/1.0.0": {
+        "runtime": {
+          "Activity 51_DigitSumModulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity 51_DigitSumModulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

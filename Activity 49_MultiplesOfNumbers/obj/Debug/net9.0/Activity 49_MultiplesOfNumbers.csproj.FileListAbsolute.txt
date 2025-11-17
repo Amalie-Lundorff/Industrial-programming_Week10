@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/bin/Debug/net9.0/Activity 49_MultiplesOfNumbers
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/bin/Debug/net9.0/Activity 49_MultiplesOfNumbers.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/bin/Debug/net9.0/Activity 49_MultiplesOfNumbers.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/bin/Debug/net9.0/Activity 49_MultiplesOfNumbers.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/bin/Debug/net9.0/Activity 49_MultiplesOfNumbers.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/refint/Activity 49_MultiplesOfNumbers.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/Activity 49_MultiplesOfNumbers.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 49_MultiplesOfNumbers/obj/Debug/net9.0/ref/Activity 49_MultiplesOfNumbers.dll

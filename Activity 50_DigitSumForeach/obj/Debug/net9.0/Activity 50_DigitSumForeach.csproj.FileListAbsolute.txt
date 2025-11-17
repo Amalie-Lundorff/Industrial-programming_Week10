@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/bin/Debug/net9.0/Activity 50_DigitSumForeach
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/bin/Debug/net9.0/Activity 50_DigitSumForeach.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/bin/Debug/net9.0/Activity 50_DigitSumForeach.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/bin/Debug/net9.0/Activity 50_DigitSumForeach.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/bin/Debug/net9.0/Activity 50_DigitSumForeach.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/refint/Activity 50_DigitSumForeach.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/Activity 50_DigitSumForeach.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 50_DigitSumForeach/obj/Debug/net9.0/ref/Activity 50_DigitSumForeach.dll

@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/bin/Debug/net9.0/Activity 51_DigitSumModulo
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/bin/Debug/net9.0/Activity 51_DigitSumModulo.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/bin/Debug/net9.0/Activity 51_DigitSumModulo.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/bin/Debug/net9.0/Activity 51_DigitSumModulo.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/bin/Debug/net9.0/Activity 51_DigitSumModulo.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/refint/Activity 51_DigitSumModulo.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/Activity 51_DigitSumModulo.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 51_DigitSumModulo/obj/Debug/net9.0/ref/Activity 51_DigitSumModulo.dll

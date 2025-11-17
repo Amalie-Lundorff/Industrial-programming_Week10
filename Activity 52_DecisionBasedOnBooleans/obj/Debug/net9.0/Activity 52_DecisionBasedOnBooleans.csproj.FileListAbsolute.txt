@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52_DecisionBasedOnBooleans
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/refint/Activity 52_DecisionBasedOnBooleans.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52_DecisionBasedOnBooleans.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 52_DecisionBasedOnBooleans/obj/Debug/net9.0/ref/Activity 52_DecisionBasedOnBooleans.dll

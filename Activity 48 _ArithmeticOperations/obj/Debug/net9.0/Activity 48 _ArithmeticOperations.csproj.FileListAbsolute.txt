@@ -1,0 +1,14 @@
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/bin/Debug/net9.0/Activity 48 _ArithmeticOperations
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/bin/Debug/net9.0/Activity 48 _ArithmeticOperations.deps.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/bin/Debug/net9.0/Activity 48 _ArithmeticOperations.runtimeconfig.json
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/bin/Debug/net9.0/Activity 48 _ArithmeticOperations.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/bin/Debug/net9.0/Activity 48 _ArithmeticOperations.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.AssemblyInfoInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.AssemblyInfo.cs
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.csproj.CoreCompileInputs.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/refint/Activity 48 _ArithmeticOperations.dll
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.pdb
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/Activity 48 _ArithmeticOperations.genruntimeconfig.cache
+/Users/amalielundorff/Desktop/DTU/5. semester/Industrial programing/Activity 48 _ArithmeticOperations/obj/Debug/net9.0/ref/Activity 48 _ArithmeticOperations.dll
